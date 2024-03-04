@@ -23,5 +23,6 @@ git checkout branchname
 
 (git push -u origin branchname)
 
+git clone "project url"
 
-hello
+
