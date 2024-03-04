@@ -12,14 +12,14 @@ git push -u origin master
 
 second push
 -----------
-git add .
-git commit -m "second push name"
-git push
+git add . 3
+git commit -m "second push name"4
+git push 5
 
 branch creactions
 ----------------
-git branch brancname
-git checkout branchname
+git branch brancname 1
+git checkout branchname 2
 
 (git push -u origin branchname)
 
