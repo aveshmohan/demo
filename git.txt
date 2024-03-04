@@ -9,3 +9,9 @@ git add
 git remote add origin "url of github repo"
 git commit -m "commit label"
 git push -u origin master
+
+second push
+-----------
+git add .
+git commit -m "second push name"
+git push
